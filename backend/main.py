@@ -101,6 +101,7 @@ app.add_middleware(
         "http://localhost:5174",
         "http://127.0.0.1:5173",
         "http://127.0.0.1:5174"
+        "https://healthcare-frontend-b1sg.onrender.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
